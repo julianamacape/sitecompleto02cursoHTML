@@ -43,28 +43,34 @@ main article {
     font-family: 'Sriracha', Arial, Helvetica, sans-serif;
     padding: 40px;
     font-size: 3em;
+    line-height: 2em;
 }
 
 #atwo {
     color: white;
-    background-color:rgb(18, 75, 18);
+    background-color:rgb(6, 37, 6);
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.774);
+
 }
 
 #ptwo {
-    background-color: rgba(0, 0, 0, 0.479);
+    background-color: rgba(0, 0, 0, 0.61);
     width: 570px;
     padding: 10px;
+    text-shadow: 1px 1px 0px black;
 }
 
 #afive {
     color: white;
-    background-color:rgb(18, 75, 18);
+    background-color:darkgray;
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.774);
 }
 
 #pfive {
     background-color: rgba(0, 0, 0, 0.479);
     width: 570px;
     padding: 10px;
+    text-shadow: 1px 1px 0px black;
 }
 
 footer {
