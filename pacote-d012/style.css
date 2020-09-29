@@ -17,7 +17,8 @@ h1 {
     color: white;
     text-align: center;
     margin: 0px;
-    font-size: 7em;
+    font-variant: small-caps;
+    font-size: 10vw;
     padding-top: 50px;
 }
 
