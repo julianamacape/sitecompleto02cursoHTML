@@ -43,35 +43,37 @@ header a:hover {
 main article {
     font-family: 'Sriracha', Arial, Helvetica, sans-serif;
     padding: 40px;
-    font-size: 3em;
+    font-size: 3.3vw;
     line-height: 2em;
 }
 
 #atwo {
     color: white;
-    background-color:rgb(6, 37, 6);
+    background-image: url(../pacote-d012/imagens/background001.jpg);
+    background-position: left top;
     box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.774);
 
 }
 
 #ptwo {
     background-color: rgba(0, 0, 0, 0.61);
-    width: 570px;
     padding: 10px;
     text-shadow: 1px 1px 0px black;
+    max-width: 38.5vw;
 }
 
 #afive {
     color: white;
-    background-color:darkgray;
+    background-image: url(../pacote-d012/imagens/background002.jpg);
+    background-position: left top;
     box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.774);
 }
 
 #pfive {
     background-color: rgba(0, 0, 0, 0.479);
-    width: 570px;
     padding: 10px;
     text-shadow: 1px 1px 0px black;
+    max-width: 40vw;
 }
 
 footer {
