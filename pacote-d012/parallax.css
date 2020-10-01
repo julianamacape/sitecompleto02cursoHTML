@@ -32,7 +32,7 @@
 }
 
 article {
-    height: 50vh;
+    min-height: 50vh;
 }
 
 #h2one {
