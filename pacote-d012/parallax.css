@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+* {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+#div1 {
+    background-image: url(../pacote-d012/imagens/pexels-cottonbro-3944405.jpg);
+    opacity: 0.65;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+#h1top {
+    color: white;
+    letter-spacing: 10px;
+    background-color: rgba(0, 0, 0, 0.616);
+    font-weight: normal;
+    padding: 10px;
+    width: 312px;
+    text-align: center;
+    font-size: 1.7em;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+article {
+    height: 50vh;
+}
+
+#h2one {
+    font-weight: normal;
+    text-align: center;
+    font-size: 1.2em;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+
+#pone {
+    font-weight: normal;
+    text-align: justify;
+    line-height: 27px;
+    color: rgb(107, 107, 107);
+    padding: 70px;
+}
+
+#div2 {
+    background-image: url(../pacote-d012/imagens/pexels-julia-m-cameron-4144923.jpg);
+    opacity: 0.65;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 55vh;
+}
+
+#h2two {
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    position: relative;
+    top: 50%;
+}
+
+.div3 {
+    background-color: black;
+    opacity: .85;
+}
+
+.ptwo {
+    font-weight: normal;
+    text-align: justify;
+    line-height: 27px;
+    color: white;
+    padding: 70px;
+
+}
+
+#div4 {
+    background-image: url(../pacote-d012/imagens/pexels-matej-698324.jpg);
+    opacity: 0.65;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#h2three {
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 5px;
+    position: relative;
+    top: 50%;
+}
+
+#divbottom {
+    background-image: url(../pacote-d012/imagens/pexels-cottonbro-3944405.jpg);
+    opacity: 0.65;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+#h2bottom {
+    color: white;
+    letter-spacing: 10px;
+    background-color: rgba(0, 0, 0, 0.616);
+    font-weight: normal;
+    text-align: center;
+    width: 106px;
+    padding: 10px 10px 10px 10px;
+    font-size: 1.7em;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

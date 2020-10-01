@@ -52,6 +52,7 @@ main article {
     background-image: url(../pacote-d012/imagens/background001.jpg);
     background-position: left top;
     background-size: cover;
+    background-attachment: fixed;
     box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.774);
 
 }
